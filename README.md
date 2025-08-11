@@ -7,6 +7,14 @@
 git commit -m "Message"
 git push origin main
 5th step: Enable GitHub Pages
-username.github.io->settings->pages
+username.github.io->settings->pages  
+Branch: main
+Folder: / (root)
+In https://<yourusername>.github.io you will directed to webpage you copied under your repository folder
+6th step:  Update any file (html,css) locally and push it
+git add .
+git commit -m "related message"
+git push
+https://jyo1505.github.io/
 
 
